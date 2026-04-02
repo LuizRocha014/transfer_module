@@ -1,7 +1,6 @@
 import 'package:componentes_lr/componentes_lr.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:in_out_layout/in_out_layout.dart';
 import 'package:transfer_module/modules/presentation/controllers/transfer_home_controller.dart';
 
 class TransferHomePage extends StatefulWidget {
