@@ -14,12 +14,18 @@ dependencies:
   componentes_lr:
     path: C:\Repository\Flutter_X_Components_Flutter
 
+  stock_module:
+    path: C:\Repository\stock_module
+
   get: ^4.6.6
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^5.0.0
+
+dependency_overrides:
+  intl: 0.20.2
 
 flutter:
   assets:
